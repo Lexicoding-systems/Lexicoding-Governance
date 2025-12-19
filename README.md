@@ -44,12 +44,12 @@ The Lexicoding Governance Protocol implements a three-node architecture that ens
 
 ## Features
 
-- 🔐 **Ed25519 Digital Signatures** - 128-bit security for message authentication
-- 🔗 **SHA256 Hash Chains** - Tamper-evident audit trails
-- 🧠 **π_varx Semantic Engine** - AI reasoning pathway analysis
-- 📋 **Configurable Rule Bundles** - Flexible governance policies
-- 🔑 **HKDF Key Derivation** - Secure key management
-- 🛡️ **Replay Protection** - Secure nonces prevent attacks
+-  **Ed25519 Digital Signatures** - 128-bit security for message authentication
+-  **SHA256 Hash Chains** - Tamper-evident audit trails
+-  **π_varx Semantic Engine** - AI reasoning pathway analysis
+-  **Configurable Rule Bundles** - Flexible governance policies
+- **HKDF Key Derivation** - Secure key management
+-  **Replay Protection** - Secure nonces prevent attacks
 
 ## Installation
 
@@ -192,7 +192,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Organization**: Lexicoding Systems
-- **Email**: info@lexicoding.systems
+- **Email**: Jacobporter@Lexicoding.tech
 - **GitHub**: [Lexicoding-systems](https://github.com/Lexicoding-systems)
 
 ---
