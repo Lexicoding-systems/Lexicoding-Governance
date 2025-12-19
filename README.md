@@ -5,7 +5,7 @@
 
 **Protocol-level Governance for AI Reasoning & Output Authorization**
 
-The VARX (Vector Architecture for Reasoning eXecution) Protocol provides a cryptographically-verified governance framework for AI systems, enabling secure decision-making with immutable audit trails.
+The Lexicoding Governance Protocol (VARX) provides a cryptographically-verified governance framework for AI systems, enabling secure decision-making with immutable audit trails.
 
 ## Overview
 
